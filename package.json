@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
     "@metaplex-foundation/js": "^0.19.2",
     "@metaplex-foundation/mpl-token-metadata": "3.0.0-alpha.21",
     "@metaplex-foundation/umi": "^0.7.11",
